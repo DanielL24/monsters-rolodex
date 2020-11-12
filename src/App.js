@@ -33,7 +33,7 @@ import { SearchBox } from './components/search-box/search-box.component'
 
      return(
       <div className="App">
-        <h1>Monsters rolodex</h1>
+        <h1>Monsters rolodex v2</h1>
         <SearchBox 
           placeholder= 'search Monsters'
           handleChange = {this.handleChange}
